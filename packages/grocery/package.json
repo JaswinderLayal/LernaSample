@@ -1,6 +1,6 @@
 {
   "name": "grocery",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apple": "^1.0.1",
+    "apple": "^2.0.0",
     "banana": "^1.0.1",
     "sillyname": "0.1.0"
   }
